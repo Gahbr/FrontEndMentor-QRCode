@@ -1,11 +1,15 @@
-# React + TypeScript + Vite
+# Front-end Mentor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Link to the front end mentor challenge.](https://www.frontendmentor.io/solutions/qrcode-KTQcpamPyQ)
 
-Currently, two official plugins are available:
+## Brief 
+Your challenge is to build out this QR code component and get it looking as close to the design as possible.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+
+Download the starter code and go through the README.md file. This will provide further details about the project. The style-guide.md file is where you'll find colors, fonts, etc.
+
+Want some support on the challenge? Join our community and ask questions in the help channel.
 
 ## Expanding the ESLint configuration
 
