@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <main className="main">
-        <QRCode src={'../src/assets/images/image-qr-code.png'} />
+        <QRCode src={import.meta.env.VITE_QRCODE} />
         <TextContainer />
       </main>
     </>
